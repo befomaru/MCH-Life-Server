@@ -16,13 +16,14 @@ TagShop
 
 称号の表示について
 setNameは正常動作で表示されている
-setDisplayNameは、表示されていない。
+setDisplayNameが動作していない。
 
 ---
 WarningPlugin
 警告を付与・解除動作は正常。
 警告付与は正常だが、例で、1が付与されているときに2が付与されると警告マークが２つになってしまう
 警告解除で、リログで治るがその場で警告マークが消えない
+setDisplayNameが動作していない。
 
 ---
 Particle
